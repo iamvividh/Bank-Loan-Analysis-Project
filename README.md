@@ -58,6 +58,8 @@ The dataset contains detailed records of loan applications, including borrower i
 
 ## Screenshots
 
-```markdown
-![Dashboard Overview](Overview.png)
-![Summary Report](Summary.png)
+<img width="1920" height="793" alt="Summary" src="https://github.com/user-attachments/assets/5936415e-e191-4019-b5fc-549e24296aae" />
+
+<img width="1920" height="787" alt="Overview" src="https://github.com/user-attachments/assets/4d66cfcb-c782-4a3a-a9f8-4a3d0521ce0f" />
+
+
